@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 2px solid red; 
+    display: flex;
+    justify-content: space-around;
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    border: 2px dotted black; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#item1 {
+    background-color: #ffcccb; 
+}
+
+#item2 {
+    background-color: #b0e57c; 
+}
+
+#item3 {
+    background-color: #aadff7; 
+}
+
+#item4 {
+    background-color: #f5e663; 
+}
+
+#item5 {
+    background-color: #dcb0f2; 
+}
